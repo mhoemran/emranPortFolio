@@ -1,8 +1,8 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/front_image2.jpg",
+    "alt": "programming desh"
   },
   {
     "name": "about",
@@ -11,7 +11,7 @@
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
+    "src": "images/error.jpg",
     "alt": "desktop with books and laptop"
   }
 ]

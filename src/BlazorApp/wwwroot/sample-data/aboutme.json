@@ -1,12 +1,9 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "As a back-end developer, I'm very interested in using my technical skills and education to create innovative solutions and help my company grow. ",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Web Development",
+    "System Architecture Design",
+    "C#, .NET Core, REST API,"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": " I'm committed to learning new things and getting better at my job, and I'm always excited to try out new technologies and tools that will help me tackle hard projects. I am committed to contributing to the success of any organization I'm a part of by having a strong drive for results and a focus on delivering value."
 }
